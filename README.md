@@ -1,4 +1,4 @@
-Vlog System WebSite
+                                                                 Vlog System WebSite
 Problem Description:
 The Vlogger or editor can post a post about its fashion and its media and NEWS to the public people through our web site and the user can add pr comment. So, he can collect the data about the user preferences from comments and likes etc.
 
